@@ -250,7 +250,7 @@ func worker(id int, baseURL string, proxies []string, wg *sync.WaitGroup) {
 func main() {
 	fmt.Println("⠀⠀⠀⠀⠀     ⠀⠀   ⣠⣄⠀")
 	fmt.Println("	⠀ ⠀⠀⠀⠀⢀⣿⣽⡷  　\033[0m\033[36mGigaFile Miner\033[0m")
-	fmt.Println("	⠀⢀⣤⣄⢀⣴⠟⠁⠀⠀    \033[0mSuper Simple GigaFIle Miner By NyaShinn1204\033[0m")
+	fmt.Println("	⠀⢀⣤⣄⢀⣴⠟⠁⠀⠀    \033[0mSuper Simple GigaFile Miner By NyaShinn1204\033[0m")
 	fmt.Println("	⢠⡟⢁⣽⢿⣅⠀⠀⠀⠀　  \033[0mRespect By Rody\033[0m")
 	fmt.Println("	⠸⣇⣀⣁⣴⠟⠀⠀⠀⠀    \033[0mhttps://github.com/NyaShinn1204/gigafile_miner\033[0m")
 	fmt.Println("	⠀⠈⠉⠉\n")
